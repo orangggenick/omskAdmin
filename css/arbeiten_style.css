@@ -1,0 +1,111 @@
+body{
+    background-color:#fff;
+    font-family: 'Hind Vadodara', sans-serif;
+}
+
+.containerPad{
+    padding-top: 2%;
+}
+
+.article{
+    padding-top: 12px;
+    background-color:#608ff9;
+    padding-bottom: 12px;
+}
+.right{
+    text-align: right;
+}
+
+.menu{
+    padding-top: 15px;
+}
+
+.red{
+    background-color:#e40042;
+    color: white;
+    border-color: #e40042;
+}
+
+.news{
+    background-size: cover;
+}
+
+.fadeNews{
+    background-color:  rgba(0,0,0,0.5);
+    min-height: 330px;
+    width: 100%;
+    height: 100%;
+}
+
+.paddingNews{
+    padding: 5%;
+    width: 80%;
+    position: relative;
+    min-height: 330px;
+}
+
+.marginNews{
+    margin-bottom: 25px;
+    
+}
+
+.item{
+    background: #333;    
+    text-align: center;
+    height: 300px !important;
+}
+
+.carousel{
+    margin-top: 20px;
+}
+
+.field{
+    border-radius: 10px;
+    box-shadow: none;
+    border: 10px solid #e40042;
+    background-color: #e40042;
+    color: #fff;
+}
+.search-query{
+    
+}
+
+.hrNew{
+    color:white;
+    padding-top: 5px;
+    width:100%;
+}
+
+.bottom{
+    position: absolute;
+    bottom: 15px;
+}
+
+h1{
+    color:white;
+    padding-top: 0px;
+}
+
+h2{
+    margin: 0;     
+    color: #666;
+    padding-top: 90px;
+    font-size: 52px;
+    font-family: "trebuchet ms", sans-serif;    
+}
+
+h3{
+    
+    color:white;
+}
+newsDisc{
+    font-weight:400;
+    font-size: 16pt;
+    color: white;
+    line-height: 0.9;
+}
+
+newsDate{
+    color:gainsboro;
+    float: left;
+}
