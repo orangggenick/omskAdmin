@@ -66,9 +66,6 @@ body{
     background-color: #e40042;
     color: #fff;
 }
-.search-query{
-    
-}
 
 .hrNew{
     color:white;
@@ -81,9 +78,22 @@ body{
     bottom: 15px;
 }
 
-h1{
+upTitle{
     color:white;
     padding-top: 0px;
+    font-size: 4rem;
+}
+
+newsDisc{
+    font-weight:400;
+    font-size: 16pt;
+    color: white;
+    line-height: 0.9;
+}
+
+newsDate{
+    color:gainsboro;
+    float: left;
 }
 
 h2{
@@ -97,15 +107,4 @@ h2{
 h3{
     
     color:white;
-}
-newsDisc{
-    font-weight:400;
-    font-size: 16pt;
-    color: white;
-    line-height: 0.9;
-}
-
-newsDate{
-    color:gainsboro;
-    float: left;
 }
