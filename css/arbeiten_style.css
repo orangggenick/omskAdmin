@@ -1,5 +1,5 @@
 body{
-    background-color:#fff;
+    background-color:#eee;
     font-family: 'Hind Vadodara', sans-serif;
 }
 
@@ -24,6 +24,8 @@ body{
     background-color:#e40042;
     color: white;
     border-color: #e40042;
+    height: 40px;
+    font-size: 1.6rem;
 }
 
 .news{
@@ -78,6 +80,27 @@ body{
     bottom: 15px;
 }
 
+
+
+.marginLine{
+    margin-top: 30px;
+    margin-bottom:20px
+}
+.textLine{
+    margin-top: 30px;
+}
+
+.pictureLine{
+   margin-bottom: 20px; 
+}
+.buttonLine{
+    margin-top: 10px;
+    float:left;
+}
+
+
+
+
 upTitle{
     color:white;
     padding-top: 0px;
@@ -95,6 +118,25 @@ newsDate{
     color:gainsboro;
     float: left;
 }
+
+lineNewsTitle{
+    color: #000;
+    font-size: 4rem;
+    line-height: 0.7
+}
+
+lineNewsMain{
+    color:#000;
+    font-size: 1.8rem;
+}
+
+lineDate{
+    text-align: right;
+    color: rgb(118,115,116); 
+    font-size: 2rem;
+}
+
+
 
 h2{
     margin: 0;     
